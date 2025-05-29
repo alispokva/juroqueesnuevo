@@ -1548,7 +1548,7 @@ room.onPlayerChat = function (player, message) {
 
 	else if (["!ropas"].includes(message[0].toLowerCase()))
 	{
-		room.sendAnnouncement("[ATH] !ropa [Nombre Del Equipo] : aguilas, abejitas, borrachos, mishari, expropiadores, liverpool, timanfayad, bastard, talavera, victoria, lorient, devils, callao, atheros [ En procreso...]", player.id, 0xCCE83F, "bold", 2);
+		room.sendAnnouncement("[ATH] !ropa [Nombre Del Equipo] : aguilas, abejitas, borrachos, mishari, expropiadores, liverpool, timanfaya, bastard, talavera, victoria, lorient, devils, callao, atheros [ En procreso...]", player.id, 0xCCE83F, "bold", 2);
 	}
 
 
